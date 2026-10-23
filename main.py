@@ -1,4 +1,3 @@
-
 from pyscript import document
 
 def candidate_checker(e):
